@@ -24,4 +24,4 @@ I am 22 year old, i want to lear something new and interesting, that is why I`m 
     + Information resource management(not finished)
 ## Languages:
 * Russian — Native Speaker;
-* English — Intermediate.
+* English — Intermediate(B1).
